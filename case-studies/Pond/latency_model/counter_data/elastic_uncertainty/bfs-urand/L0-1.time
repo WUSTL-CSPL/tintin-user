@@ -1,0 +1,12 @@
+
+
+
+Real: 175.69 2:55.69
+User: 1041.38
+Sys: 74.60
+Cmdline: bash bfs-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18877112
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1701
+Cmd-exit-status: 0

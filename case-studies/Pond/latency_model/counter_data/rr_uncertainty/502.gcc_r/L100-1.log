@@ -1,0 +1,21 @@
+===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Sun Dec  3 13:55:18 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 9566
+Stopping Tintin
+End: Sun Dec  3 13:56:26 CST 2023
+
+
+
+
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+
+#!/bin/bash
+ulimit -s unlimited
+export OMP_NUM_THREADS=1
+export OMP_STACKSIZE=122880
+taskset 1 ./cpugcc_r_base.lienz-perf-m64 gcc-pp.c -O3 -finline-limit=0 -fif-conversion -fif-conversion2 -o gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.s > gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.out 2>> gcc-pp.opts-O3_-finline-limit_0_-fif-conversion_-fif-conversion2.err &
+workload_pid=$!
+echo "$workload_pid" > /tmp/workload.pid
+wait $workload_pid 2>/dev/null

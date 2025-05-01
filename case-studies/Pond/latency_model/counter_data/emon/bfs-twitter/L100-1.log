@@ -1,0 +1,15 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Sat Oct 21 13:30:19 CDT 2023
+cpid=40284
+gpid=40288
+
+root 40284 39373 0 13:30 pts/4 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//bfs-twitter/L100-1.time bash bfs-twitter-r.sh root 40286 40284 0 13:30 pts/4 00:00:00 bash bfs-twitter-r.sh
+
+root 40288 40287 99 13:30 pts/4 00:00:05 /home/cspl/gapbs/bfs -f /home/cspl/gapbs/benchmark/graphs/twitter.sg -n256
+EMON collector successfully stopped.
+End: Sat Oct 21 13:49:32 CDT 2023
+
+
+
+

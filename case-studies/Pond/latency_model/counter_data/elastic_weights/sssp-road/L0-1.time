@@ -1,0 +1,36 @@
+
+
+
+Real: 165.59 2:45.59
+User: 1181.55
+Sys: 35.50
+Cmdline: bash sssp-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 6355556
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 656
+Cmd-exit-status: 0
+
+
+
+Real: 166.24 2:46.24
+User: 1192.99
+Sys: 35.25
+Cmdline: bash sssp-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 6580224
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 649
+Cmd-exit-status: 0
+
+
+
+Real: 162.39 2:42.39
+User: 1162.40
+Sys: 35.17
+Cmdline: bash sssp-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 6586568
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 663
+Cmd-exit-status: 0

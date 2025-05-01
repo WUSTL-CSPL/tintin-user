@@ -1,0 +1,36 @@
+
+
+
+Real: 182.91 3:02.91
+User: 1154.36
+Sys: 40.14
+Cmdline: bash pr-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18877512
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 3194
+Cmd-exit-status: 0
+
+
+
+Real: 181.43 3:01.43
+User: 1145.90
+Sys: 39.86
+Cmdline: bash pr-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18876676
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 3569
+Cmd-exit-status: 0
+
+
+
+Real: 181.48 3:01.48
+User: 1145.74
+Sys: 40.42
+Cmdline: bash pr-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18877036
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 3050
+Cmd-exit-status: 0

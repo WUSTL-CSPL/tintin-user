@@ -1,0 +1,12 @@
+
+
+
+Real: 1037.04 17:17.04
+User: 996.24
+Sys: 40.61
+Cmdline: bash cc-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 16269660
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 25152
+Cmd-exit-status: 0

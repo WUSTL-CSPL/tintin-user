@@ -1,0 +1,13 @@
+Command exited with non-zero status 137
+
+
+
+Real: 82.06 1:22.06
+User: 259.99
+Sys: 64.88
+Cmdline: bash tc-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 32277284
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 763
+Cmd-exit-status: 137

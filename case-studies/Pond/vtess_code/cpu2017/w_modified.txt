@@ -1,0 +1,14 @@
+500.perlbench_r 202
+502.gcc_r 1280
+503.bwaves_r 822
+505.mcf_r 608
+507.cactuBSSN_r 789
+508.namd_r 162
+510.parest_r 418
+519.lbm_r 410
+523.xalancbmk_r 480
+531.deepsjeng_r 699
+541.leela_r 25
+544.nab_r 146
+557.xz_r 725
+

@@ -1,0 +1,12 @@
+
+
+
+Real: 166.34 2:46.34
+User: 1176.94
+Sys: 21.94
+Cmdline: bash pr-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597880
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 759
+Cmd-exit-status: 0

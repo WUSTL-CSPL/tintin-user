@@ -1,0 +1,17 @@
+===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Wed Oct 25 16:10:53 CDT 2023
+Stopping emon
+EMON collector successfully stopped.
+End: Wed Oct 25 16:14:47 CDT 2023
+
+
+
+
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+
+#!/bin/bash
+ulimit -s unlimited
+export OMP_NUM_THREADS=1
+export OMP_STACKSIZE=122880
+taskset 1 ./bwaves_r_base.mytest-m64 bwaves_1 < bwaves_1.in > bwaves_1.out 2>> bwaves_1.err

@@ -1,0 +1,39 @@
+Command exited with non-zero status 137
+
+
+
+Real: 64.73 1:04.73
+User: 0.00
+Sys: 50.52
+Cmdline: bash sssp-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 28012464
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 12144
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 61.86 1:01.86
+User: 0.00
+Sys: 49.64
+Cmdline: bash sssp-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 28922796
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 11131
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 66.94 1:06.94
+User: 0.00
+Sys: 53.00
+Cmdline: bash sssp-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 28614928
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 11946
+Cmd-exit-status: 137

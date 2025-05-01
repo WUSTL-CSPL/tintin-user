@@ -1,0 +1,36 @@
+
+
+
+Real: 358.41 5:58.41
+User: 2399.82
+Sys: 31.36
+Cmdline: bash tc-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 21712420
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 978
+Cmd-exit-status: 0
+
+
+
+Real: 355.09 5:55.09
+User: 2377.52
+Sys: 30.74
+Cmdline: bash tc-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 21711752
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1185
+Cmd-exit-status: 0
+
+
+
+Real: 355.04 5:55.04
+User: 2376.50
+Sys: 30.96
+Cmdline: bash tc-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 21712128
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1127
+Cmd-exit-status: 0

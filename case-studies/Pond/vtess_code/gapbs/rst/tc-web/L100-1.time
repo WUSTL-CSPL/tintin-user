@@ -1,0 +1,13 @@
+Command exited with non-zero status 137
+
+
+
+Real: 52.78 0:52.78
+User: 140.07
+Sys: 50.20
+Cmdline: bash tc-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 27938016
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1623
+Cmd-exit-status: 137

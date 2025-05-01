@@ -1,0 +1,1 @@
+cmd.sh: line 3: 53733 Killed                  taskset 1 ${GAPBS_DIR}/sssp -f ${GAPBS_GRAPH_DIR}/kron.wsg -n8 -d2

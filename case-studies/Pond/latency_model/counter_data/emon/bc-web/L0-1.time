@@ -1,0 +1,12 @@
+
+
+
+Real: 1382.95 23:02.95
+User: 1331.78
+Sys: 49.66
+Cmdline: bash bc-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 17099692
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 119919
+Cmd-exit-status: 0

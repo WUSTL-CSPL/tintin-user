@@ -1,0 +1,36 @@
+
+
+
+Real: 505.21 8:25.21
+User: 3526.59
+Sys: 82.03
+Cmdline: bash sssp-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 24645172
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2632
+Cmd-exit-status: 0
+
+
+
+Real: 496.97 8:16.97
+User: 3471.19
+Sys: 81.81
+Cmdline: bash sssp-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 24646092
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2536
+Cmd-exit-status: 0
+
+
+
+Real: 497.23 8:17.23
+User: 3472.16
+Sys: 82.79
+Cmdline: bash sssp-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 24651224
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2772
+Cmd-exit-status: 0

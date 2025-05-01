@@ -1,0 +1,16 @@
+cache-misses
+LLC-load-misses
+branch-instructions
+branch-misses
+cache-references
+instructions
+cpu-cycles
+L1-dcache-load-misses
+L1-dcache-loads
+L1-dcache-stores
+L1-icache-load-misses
+LLC-loads
+LLC-store-misses
+LLC-stores
+branch-load-misses
+branch-loads

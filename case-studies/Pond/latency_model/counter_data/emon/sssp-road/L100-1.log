@@ -1,0 +1,15 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Sun Oct 22 01:13:13 CDT 2023
+cpid=19033
+gpid=19037
+
+root 19033 18482 0 01:13 ? 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//sssp-road/L100-1.time bash sssp-road-r.sh root 19035 19033 0 01:13 ? 00:00:00 bash sssp-road-r.sh
+
+root 19037 19036 99 01:13 ? 00:00:05 /home/cspl/gapbs/sssp -f /home/cspl/gapbs/benchmark/graphs/road.wsg -n2 -d2
+EMON collector successfully stopped.
+End: Sun Oct 22 02:13:05 CDT 2023
+
+
+
+

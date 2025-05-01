@@ -1,0 +1,12 @@
+
+
+
+Real: 353.71 5:53.71
+User: 2409.11
+Sys: 50.83
+Cmdline: bash sssp-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 24627352
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 19820
+Cmd-exit-status: 0

@@ -1,0 +1,8 @@
+--cache-ops 100
+--matrix-ops 100
+--memcpy-ops 100
+--pipe-ops 100
+--schedpolicy-ops 100
+--sigio-ops 100
+--swap-ops 100
+--udp-flood-ops 100

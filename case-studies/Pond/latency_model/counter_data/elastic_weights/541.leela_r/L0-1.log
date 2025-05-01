@@ -1,0 +1,21 @@
+===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 1 -- bash cmd.sh
+Start: Wed Dec  6 14:10:12 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 10187
+Stopping Tintin
+End: Wed Dec  6 14:24:34 CST 2023
+
+
+
+
+numactl --cpunodebind 0 --membind 1 -- bash cmd.sh
+
+#!/bin/bash
+ulimit -s unlimited
+export OMP_NUM_THREADS=1
+export OMP_STACKSIZE=122880
+taskset 1 ./leela_r_base.lienz-perf-m64 ref.sgf > ref.out 2>> ref.err &
+workload_pid=$!
+echo "$workload_pid" > /tmp/workload.pid
+wait $workload_pid 2>/dev/null

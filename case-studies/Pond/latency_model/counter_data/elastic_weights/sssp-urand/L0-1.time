@@ -1,0 +1,39 @@
+Command exited with non-zero status 137
+
+
+
+Real: 78.11 1:18.11
+User: 0.00
+Sys: 76.72
+Cmdline: bash sssp-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 32525600
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1740
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 77.70 1:17.70
+User: 0.00
+Sys: 76.24
+Cmdline: bash sssp-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 32412172
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1642
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 76.91 1:16.91
+User: 0.00
+Sys: 75.41
+Cmdline: bash sssp-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 32410404
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1852
+Cmd-exit-status: 137

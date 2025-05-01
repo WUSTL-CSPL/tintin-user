@@ -1,0 +1,306 @@
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x5555556e3c2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x555555b2c734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x55555555cc1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x55555555cc1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25
+At line 283 of file seq_io_mod.fppized.f90 (unit = 99)
+Fortran runtime error: Cannot open file 'drv_in': No such file or directory
+
+Error termination. Backtrace:
+#0  0x155554f662ed in ???
+#1  0x155554f66ed5 in ???
+#2  0x155554f6769d in ???
+#3  0x1555550d9ecd in ???
+#4  0x1555550da214 in ???
+#5  0x55555558fc2f in __seq_io_mod_MOD_seq_io_init1
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/seq_io_mod.fppized.f90:283
+#6  0x5555559d8734 in __ccsm_comp_mod_MOD_ccsm_pre_init
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_comp_mod.fppized.f90:658
+#7  0x555555408c1e in ccsm_driver
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:43
+#8  0x555555408c1e in main
+	at /home/cspl/cpu2017/benchspec/CPU/527.cam4_r/build/build_base_lienz-perf-m64.0000/ccsm_driver.fppized.f90:25

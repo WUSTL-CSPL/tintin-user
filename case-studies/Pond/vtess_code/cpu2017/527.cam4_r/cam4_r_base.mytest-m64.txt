@@ -1,0 +1,7 @@
+(seq_io_init) pio init parameters: before nml read
+(seq_io_init)    pio_stride   =    -99
+(seq_io_init)    pio_root     =    -99
+(seq_io_init)    pio_typename = nothing                                                                         
+(seq_io_init)    pio_numtasks =    -99
+(seq_io_init)    pio_debug_level =      0
+    pio_async_interface =  F

@@ -1,0 +1,12 @@
+
+
+
+Real: 121.09 2:01.09
+User: 915.68
+Sys: 41.11
+Cmdline: bash cc-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1015508
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 267
+Cmd-exit-status: 0

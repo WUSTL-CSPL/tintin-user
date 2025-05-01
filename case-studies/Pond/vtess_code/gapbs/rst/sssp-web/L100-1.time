@@ -1,0 +1,13 @@
+Command exited with non-zero status 137
+
+
+
+Real: 67.40 1:07.40
+User: 0.27
+Sys: 63.79
+Cmdline: bash sssp-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 27760660
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 3559
+Cmd-exit-status: 137

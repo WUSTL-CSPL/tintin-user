@@ -1,0 +1,12 @@
+
+
+
+Real: 369.16 6:09.16
+User: 2316.56
+Sys: 93.40
+Cmdline: bash sssp-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 31559968
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2810
+Cmd-exit-status: 0
