@@ -1,0 +1,12 @@
+
+
+
+Real: 235.20 3:55.20
+User: 1544.17
+Sys: 80.94
+Cmdline: bash bfs-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 12917436
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1910
+Cmd-exit-status: 0

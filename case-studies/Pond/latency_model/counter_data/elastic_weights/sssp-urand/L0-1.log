@@ -1,0 +1,17 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 1 -- bash cmd.sh
+Start: Thu Dec  7 02:20:38 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 44529
+cpid=44525
+gpid=44529
+
+root 44525 41122 0 02:20 ? 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//sssp-urand/L0-1.time bash sssp-urand-r.sh root 44527 44525 0 02:20 ? 00:00:00 bash sssp-urand-r.sh
+
+root 44529 44528 99 02:20 ? 00:00:05 /home/cspl/gapbs/sssp -f /home/cspl/gapbs/benchmark/graphs/urand.wsg -n8 -d2
+Stopping Tintin
+End: Thu Dec  7 02:22:00 CST 2023
+
+
+
+

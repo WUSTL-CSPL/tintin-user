@@ -1,0 +1,12 @@
+
+
+
+Real: 142.85 2:22.85
+User: 1135.13
+Sys: 1.02
+Cmdline: bash tc-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 602384
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 166
+Cmd-exit-status: 0

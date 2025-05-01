@@ -1,0 +1,12 @@
+
+
+
+Real: 222.05 3:42.05
+User: 1371.71
+Sys: 63.88
+Cmdline: bash tc-web-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 30701540
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 11710
+Cmd-exit-status: 0

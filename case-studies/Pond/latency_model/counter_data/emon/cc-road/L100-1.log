@@ -1,0 +1,15 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Sun Oct 22 00:31:00 CDT 2023
+cpid=7448
+gpid=7452
+
+root 7448 6905 0 00:31 ? 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//cc-road/L100-1.time bash cc-road-r.sh root 7450 7448 0 00:31 ? 00:00:00 bash cc-road-r.sh
+
+root 7452 7451 99 00:31 ? 00:00:05 /home/cspl/gapbs/cc -f /home/cspl/gapbs/benchmark/graphs/road.sg -n640
+EMON collector successfully stopped.
+End: Sun Oct 22 00:45:42 CDT 2023
+
+
+
+

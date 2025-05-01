@@ -1,0 +1,17 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 1 -- bash cmd.sh
+Start: Tue Dec  5 05:41:52 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 24177
+cpid=24173
+gpid=24177
+
+root 24173 20883 0 05:41 pts/0 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//tc-kron/L0-1.time bash tc-kron-r.sh root 24175 24173 0 05:41 pts/0 00:00:00 bash tc-kron-r.sh
+
+root 24177 24176 73 05:41 pts/0 00:00:03 /home/cspl/gapbs/tc -f /home/cspl/gapbs/benchmark/graphs/kronU.sg -n1
+Stopping Tintin
+End: Tue Dec  5 05:43:12 CST 2023
+
+
+
+

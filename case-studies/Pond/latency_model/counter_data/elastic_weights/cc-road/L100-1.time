@@ -1,0 +1,36 @@
+
+
+
+Real: 120.72 2:00.72
+User: 912.67
+Sys: 41.04
+Cmdline: bash cc-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1015512
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 274
+Cmd-exit-status: 0
+
+
+
+Real: 120.12 2:00.12
+User: 908.21
+Sys: 40.82
+Cmdline: bash cc-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1015496
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 334
+Cmd-exit-status: 0
+
+
+
+Real: 120.06 2:00.06
+User: 907.89
+Sys: 40.62
+Cmdline: bash cc-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1015452
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 277
+Cmd-exit-status: 0

@@ -1,0 +1,13 @@
+Command exited with non-zero status 137
+
+
+
+Real: 65.39 1:05.39
+User: 0.00
+Sys: 64.00
+Cmdline: bash sssp-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 30834736
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2560
+Cmd-exit-status: 137

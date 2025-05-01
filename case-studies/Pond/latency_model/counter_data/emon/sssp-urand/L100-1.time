@@ -1,0 +1,13 @@
+Command exited with non-zero status 137
+
+
+
+Real: 63.44 1:03.44
+User: 0.00
+Sys: 61.98
+Cmdline: bash sssp-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 30835988
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 1310
+Cmd-exit-status: 137

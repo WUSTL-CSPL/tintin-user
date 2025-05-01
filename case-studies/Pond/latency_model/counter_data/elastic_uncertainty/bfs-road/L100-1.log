@@ -1,0 +1,17 @@
+        ===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Tue Dec  5 02:34:46 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 43588
+cpid=43584
+gpid=43588
+
+root 43584 40534 0 02:34 pts/0 00:00:00 /usr/bin/time -f \n\n\nReal: %e %E\nUser: %U\nSys: %S\nCmdline: %C\nAvg-total-Mem-kb: %K\nMax-RSS-kb: %M\nSys-pgsize-kb: %Z\nNr-voluntary-context-switches: %w\nCmd-exit-status: %x --append -o /home/cspl/pond/vtess_code/gapbs/rst//bfs-road/L100-1.time bash bfs-road-r.sh root 43586 43584 0 02:34 pts/0 00:00:00 bash bfs-road-r.sh
+
+root 43588 43587 99 02:34 pts/0 00:00:30 /home/cspl/gapbs/bfs -f /home/cspl/gapbs/benchmark/graphs/road.sg -n256
+Stopping Tintin
+End: Tue Dec  5 02:36:25 CST 2023
+
+
+
+

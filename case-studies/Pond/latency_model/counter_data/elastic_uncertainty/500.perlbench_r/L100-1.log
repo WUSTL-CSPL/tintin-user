@@ -1,0 +1,21 @@
+===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Mon Dec  4 16:07:18 CST 2023
+Waiting for the file to exist: /tmp/workload.pid
+Obtained workload pid 5898
+Stopping Tintin
+End: Mon Dec  4 16:07:52 CST 2023
+
+
+
+
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+
+#!/bin/bash
+ulimit -s unlimited
+export OMP_NUM_THREADS=1
+export OMP_STACKSIZE=122880
+taskset 1 ./perlbench_r_base.mytest-m64 -I./lib checkspam.pl 2500 5 25 11 150 1 1 1 1 > checkspam.2500.5.25.11.150.1.1.1.1.out 2>> checkspam.2500.5.25.11.150.1.1.1.1.err &
+workload_pid=$!
+echo "$workload_pid" > /tmp/workload.pid
+wait $workload_pid 2>/dev/null

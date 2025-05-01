@@ -1,0 +1,39 @@
+Command exited with non-zero status 137
+
+
+
+Real: 45.30 0:45.30
+User: 146.06
+Sys: 41.89
+Cmdline: bash tc-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 28026640
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 4821
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 62.65 1:02.65
+User: 175.58
+Sys: 45.52
+Cmdline: bash tc-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 29409284
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 23531
+Cmd-exit-status: 137
+Command exited with non-zero status 137
+
+
+
+Real: 45.70 0:45.70
+User: 158.79
+Sys: 40.22
+Cmdline: bash tc-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 28657564
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 3210
+Cmd-exit-status: 137

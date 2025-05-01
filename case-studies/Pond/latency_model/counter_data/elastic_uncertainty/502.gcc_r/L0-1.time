@@ -1,0 +1,12 @@
+
+
+
+Real: 65.72 1:05.72
+User: 64.32
+Sys: 1.31
+Cmdline: bash r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1311440
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 123
+Cmd-exit-status: 0

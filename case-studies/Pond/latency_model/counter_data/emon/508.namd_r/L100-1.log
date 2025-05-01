@@ -1,0 +1,17 @@
+===> MemEater reserving [0] MB on Node 0...
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+Start: Wed Oct 25 17:05:13 CDT 2023
+Stopping emon
+EMON collector successfully stopped.
+End: Wed Oct 25 17:10:51 CDT 2023
+
+
+
+
+numactl --cpunodebind 0 --membind 0 -- bash cmd.sh
+
+#!/bin/bash
+ulimit -s unlimited
+export OMP_NUM_THREADS=1
+export OMP_STACKSIZE=122880
+taskset 1 ./namd_r_base.lienz-perf-m64 --input apoa1.input --output apoa1.ref.output --iterations 65 > namd.out 2>> namd.err

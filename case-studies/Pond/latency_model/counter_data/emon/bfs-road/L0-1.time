@@ -1,0 +1,12 @@
+
+
+
+Real: 814.45 13:34.45
+User: 717.89
+Sys: 96.39
+Cmdline: bash bfs-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1021544
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 22378260
+Cmd-exit-status: 0

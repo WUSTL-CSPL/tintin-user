@@ -1,0 +1,12 @@
+
+
+
+Real: 2407.49 40:07.49
+User: 2388.17
+Sys: 18.60
+Cmdline: bash tc-urand-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18877176
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 731
+Cmd-exit-status: 0

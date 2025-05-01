@@ -1,0 +1,36 @@
+
+
+
+Real: 362.26 6:02.26
+User: 2693.84
+Sys: 28.92
+Cmdline: bash pr-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 12918312
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 330
+Cmd-exit-status: 0
+
+
+
+Real: 354.93 5:54.93
+User: 2643.38
+Sys: 27.86
+Cmdline: bash pr-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 12918336
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 338
+Cmd-exit-status: 0
+
+
+
+Real: 356.55 5:56.55
+User: 2644.07
+Sys: 29.17
+Cmdline: bash pr-twitter-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 12918308
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 447
+Cmd-exit-status: 0

@@ -1,0 +1,36 @@
+
+
+
+Real: 195.76 3:15.76
+User: 1236.03
+Sys: 87.96
+Cmdline: bash bfs-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597108
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2443
+Cmd-exit-status: 0
+
+
+
+Real: 190.31 3:10.31
+User: 1211.54
+Sys: 85.60
+Cmdline: bash bfs-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597136
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2446
+Cmd-exit-status: 0
+
+
+
+Real: 191.41 3:11.41
+User: 1210.94
+Sys: 87.04
+Cmdline: bash bfs-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597092
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 2547
+Cmd-exit-status: 0

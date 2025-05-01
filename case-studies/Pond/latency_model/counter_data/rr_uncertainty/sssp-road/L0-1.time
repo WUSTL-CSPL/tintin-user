@@ -1,0 +1,12 @@
+
+
+
+Real: 165.39 2:45.39
+User: 1182.52
+Sys: 35.08
+Cmdline: bash sssp-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 6548616
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 663
+Cmd-exit-status: 0

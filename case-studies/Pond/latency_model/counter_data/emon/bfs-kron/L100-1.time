@@ -1,0 +1,12 @@
+
+
+
+Real: 1009.17 16:49.17
+User: 948.44
+Sys: 60.37
+Cmdline: bash bfs-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597080
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 21610
+Cmd-exit-status: 0

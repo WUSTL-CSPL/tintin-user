@@ -1,0 +1,27 @@
+cmd.sh: line 5: ./x264_r_base.mytest-m64: No such file or directory
+cmd.sh: line 5: ./x264_r_base.mytest-m64: No such file or directory
+taskset: failed to parse CPU mask: ./x264_r_base.lienz-perf-m64
+taskset: failed to parse CPU mask: ./x264_r_base.lienz-perf-m64
+taskset: failed to parse CPU mask: ./x264_r_base.lienz-perf-m64
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'
+x264 [error]: could not open input file `BuckBunny.yuv'

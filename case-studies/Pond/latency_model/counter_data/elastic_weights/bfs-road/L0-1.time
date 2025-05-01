@@ -1,0 +1,36 @@
+
+
+
+Real: 103.72 1:43.72
+User: 773.77
+Sys: 51.31
+Cmdline: bash bfs-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1021880
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 32
+Cmd-exit-status: 0
+
+
+
+Real: 102.83 1:42.83
+User: 767.10
+Sys: 50.96
+Cmdline: bash bfs-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1021928
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 23
+Cmd-exit-status: 0
+
+
+
+Real: 102.82 1:42.82
+User: 766.96
+Sys: 50.96
+Cmdline: bash bfs-road-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 1021872
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 31
+Cmd-exit-status: 0

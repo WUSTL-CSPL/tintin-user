@@ -1,0 +1,3 @@
+Read Time:           17.86059
+Graph has 134217726 nodes and 2111632379 undirected edges for degree: 15
+cmd.sh: line 3: 54735 Killed                  taskset 1 ${GAPBS_DIR}/tc -f ${GAPBS_GRAPH_DIR}/kronU.sg -n1

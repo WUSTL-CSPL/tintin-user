@@ -1,0 +1,12 @@
+
+
+
+Real: 123.67 2:03.67
+User: 735.02
+Sys: 43.82
+Cmdline: bash cc-kron-r.sh
+Avg-total-Mem-kb: 0
+Max-RSS-kb: 18597116
+Sys-pgsize-kb: 4096
+Nr-voluntary-context-switches: 536
+Cmd-exit-status: 0
